@@ -1,0 +1,11 @@
+@import "~antd/dist/antd.css";
+@import "TopBar.css";
+@import "Card.css";
+@import "Graph.css";
+@import "NodeMainPage.css";
+
+
+.App {
+  text-align: center;
+}
+

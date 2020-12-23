@@ -1,0 +1,28 @@
+.nodePageSider{
+    width: 27%;
+    height: 500px;
+    float: left;
+    background-color: #D6EAF8;
+}
+
+.majorContentContent{
+    float: left;
+    width: 33%;
+    height: 500px;
+    padding-left: 0;
+}
+
+.majorContentRelate{
+    float: left;
+    width: 13%;
+    height: 500px;
+    background-color: #D6EAF8;
+    padding-left: 0;
+}
+
+.commentsArea{
+    float: left;
+    width: 46%;
+    height: 500px;
+    background-color: #D6EAF8;
+}

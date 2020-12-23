@@ -1,0 +1,36 @@
+
+.ant-card {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 7px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    -webkit-font-feature-settings: 'tnum';
+    font-feature-settings: 'tnum';
+    position: relative;
+    background: #fff;
+    border-radius: 2px;
+    border: 1px solid #f0f0f0;
+}
+
+.ant-card-head {
+    min-height: 4px;
+    margin-bottom: -1px;
+    padding: 0px;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 600;
+    font-size: 14px;
+    background: transparent;
+    border-bottom: 1px solid #f0f0f0;
+    border-radius: 2px 2px 0 0;
+    background-color: blanchedalmond;
+}
+
+.ant-comment-content-detail{
+    flex: 0 0 auto;
+}
+
